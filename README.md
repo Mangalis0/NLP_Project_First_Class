@@ -1,2 +1,2 @@
 # NLP_Project
-Natural Language Processing Classifcation Project analyzing Tweets for sentiment analysis
+Natural Language Processing Classifcation Project analyzing Tweets for sentiment analysis around climate change
